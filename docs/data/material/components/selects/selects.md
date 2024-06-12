@@ -51,7 +51,7 @@ Note that when using FormControl with the outlined variant of the Select, you ne
 
 ### Small Size
 
-{{"demo": "SelectSmall.js"}}
+{{"demo": "SelectSmalerwl.js"}}
 
 ### Other props
 
